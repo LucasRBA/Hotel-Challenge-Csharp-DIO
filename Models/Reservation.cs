@@ -56,7 +56,7 @@ namespace DesafioProjetoHospedagem.Models
             else
             {
                 throw new Exception($"You can't book the selected room since the number of guests {guests.Count} is "+
-                                    $"is greater than the room capacity {Room.Capacity}");
+                                    $"greater than the room capacity {Room.Capacity}");
             }
         }
 

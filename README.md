@@ -27,4 +27,4 @@ Your method to do the checkout needs to apply a 10% discount if the number of bo
 ### Calcular Valor Diaria = CalculateTotal
 
 
-## My addtions to the original solution were mostly in order to make the console app like an interactive menu, to receive the user input as parameters and based on them calculate and display the results.
+### My addtions to the original solution were mostly in order to make the console app like an interactive menu, to receive the user input as parameters and based on them calculate and display the results.
